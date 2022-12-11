@@ -16,4 +16,4 @@ If you haven't already, please feel free to also check out my Notion Project Por
 | Project Name  | Description |
 | ------------- | ------------- |
 | [Contracts Dashboard](https://lardcheng.notion.site/Contracts-Dashboard-4042c67c3db2481dbf02918ed1a4ec4d)| Dashboard for the above Contracts Code. |
-| [MCU Profitability and Performance Code](https://www.notion.so/lardcheng/MCU-Profitability-Dashboard-717835ee8f8a42c3972e93bf67a453f4)| Dashboard for the above MCU Code. |
+| [MCU Profitability and Performance Dashboard](https://www.notion.so/lardcheng/MCU-Profitability-Dashboard-717835ee8f8a42c3972e93bf67a453f4)| Dashboard for the above MCU Code. |
