@@ -1,8 +1,7 @@
 # Portfolio
-My SQL Projects
 
 Hi there!
-Welcome to my portfolio where I try to showcase all of my SQL projects and codes.
+Welcome to my portfolio where I try to showcase all of my projects, SQL codes, and dashboards.
 
 If you haven't already, please feel free to also check out my Notion Project Portfolio, where I showcase my data visualization projects!
 
