@@ -15,5 +15,5 @@ If you haven't already, please feel free to also check out my Notion Project Por
 | Project Name  | Description |
 | ------------- | ------------- |
 | [Contracts Dashboard](https://lardcheng.notion.site/Contracts-Dashboard-4042c67c3db2481dbf02918ed1a4ec4d)| My first ever dashboard created in Power BI. It has gone through several stages of editing, and I am extremely proud of how the most recent version turned out. |
-| [Capital Programs Dashboard](https://www.notion.so/lardcheng/Capital-Dashboard-478f160100044dc083bc92a35d878058)| My first ever dashboard created in Power BI. It has gone through several stages of editing, and I am extremely proud of how the most recent version turned out. |
-| [Project Manager Dashboard](https://www.notion.so/lardcheng/Project-Manager-Dashboard-0e13ca755bc642318697a6ff5beb6c94)| My first ever dashboard created in Power BI. It has gone through several stages of editing, and I am extremely proud of how the most recent version turned out. |
+| [Capital Programs Dashboard](https://www.notion.so/lardcheng/Capital-Dashboard-478f160100044dc083bc92a35d878058)| This dashboard was created to serve as a centralized location where metrics related to the many different aspects of the Capital Program can be found.   |
+| [Project Manager Dashboard](https://www.notion.so/lardcheng/Project-Manager-Dashboard-0e13ca755bc642318697a6ff5beb6c94)| This dashboard serves a place where Capital Project Managers and Vice Presidents can find information regarding the numerous projects happening or will happen at each of our owned properties. |
